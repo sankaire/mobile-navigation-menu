@@ -1,0 +1,27 @@
+export const MenuItems = [
+    {
+        title:"Home",
+        URL:"#",
+        cName:"nav__links"
+    },
+    {
+        title:"Projects",
+        URL:"#",
+        cName:"nav__links"
+    },
+    {
+        title:"Contact",
+        URL:"#",
+        cName:"nav__links"
+    },
+    {
+        title:"Resume",
+        URL:"#",
+        cName:"nav__links"
+    },
+    {
+        title:"Follow",
+        URL:"#",
+        cName:"nav__links__mobile"
+    },
+]
